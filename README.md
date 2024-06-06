@@ -66,5 +66,8 @@ By increasing the capacity of MicrotransJakarta services in these high-demand ar
 This project provides valuable insights into Transjakarta's revenue patterns and identifies key areas for operational improvements. By focusing on peak hours and profitable routes, Transjakarta can enhance its service efficiency, improve customer satisfaction, and maximize revenue.
 
 ---
+link for story tableu:
+https://public.tableau.com/app/profile/radhita.intan.anggraini/viz/StoryTransjakarta_Capstone2/Story1?publish=yes
 
-This README template provides a comprehensive overview of the project, outlining the key objectives, analysis steps, findings, and recommendations. It guides the user through the process of using the provided notebook to explore the analysis and visualizations.
+link for dashboard tableu:
+https://public.tableau.com/app/profile/radhita.intan.anggraini/viz/DashboardTransjakarta_Capstone2/RevenueProfitableRute
